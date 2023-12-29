@@ -14,7 +14,7 @@
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/> Email
   </a> &nbsp; 
   <a href="tel:+35677162781">
-    <img src="https://www.vectorlogo.zone/logos/minimalicons/minimalicons-cellphone.svg" alt="phone" width="40" height="40"/> +35677162781
+    <img src="https://www.vectorlogo.zone/logos/fontawesome/fontawesome-phone.svg" alt="phone" width="40" height="40"/> Teléfono
   </a>
 </p>
 
