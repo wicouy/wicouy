@@ -55,6 +55,6 @@
 <p align="left">
   Desarrollador .Net | Universidad ORT Uruguay
   <br>
-  <img src="https://twitter.com/UniversidadORT/photo" alt="ORT Uruguay" width="40" height="40"/>
+  <a href="https://www.ort.edu.uy" target="_blank" rel="noreferrer"> />
 </p>
 
