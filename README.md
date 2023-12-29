@@ -7,8 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Enlaces a LinkedIn, GitHub, o cualquier otra red profesional -->
+  <a href="https://www.linkedin.com/in/nicolascabrera/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
+
 
 <h3 align="left">Professional Experience:</h3>
 <ul>
