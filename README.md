@@ -53,8 +53,8 @@
 
 <h3 align="left">Education and Certifications:</h3>
 <p align="left">
-  Desarrollador .Net recibido de la Universidad ORT Uruguay
+  Desarrollador .Net | Universidad ORT Uruguay
   <br>
-  <img src="https://www.vectorlogo.zone/logos/ort/ort-icon.svg" alt="ORT Uruguay" width="40" height="40"/>
+  <img src="https://twitter.com/UniversidadORT/photo" alt="ORT Uruguay" width="40" height="40"/>
 </p>
 
