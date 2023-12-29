@@ -12,10 +12,6 @@
   </a> &nbsp; 
   <a href="mailto:nicolascabrera.uy@gmail.com">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/> Email
-  </a> &nbsp; 
-  <a href="tel:+35677162781">
-    <img src="https://www.vectorlogo.zone/logos/fontawesome/fontawesome-phone.svg" alt="phone" width="40" height="40"/> Teléfono
-  </a>
 </p>
 
 <h3 align="left">Professional Experience:</h3>
