@@ -8,16 +8,15 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolascabrera/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" width="40" height="40"/> LinkedIn
+  </a> &nbsp; 
   <a href="mailto:nicolascabrera.uy@gmail.com">
-    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/>
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" width="40" height="40"/> Email
+  </a> &nbsp; 
   <a href="tel:+35677162781">
-    <img src="https://www.vectorlogo.zone/logos/simplesharebuttons/simplesharebuttons-icon.svg" alt="phone" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/minimalicons/minimalicons-cellphone.svg" alt="phone" width="40" height="40"/> Teléfono
   </a>
 </p>
-
 
 <h3 align="left">Professional Experience:</h3>
 <ul>
