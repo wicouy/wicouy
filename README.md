@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nicolas</h1>
-<h3 align="center">A passionate .Net Developer</h3>
+<h3 align="center">.Net Developer</h3>
 
 <p align="center">
-  Soy un desarrollador de software con experiencia en .NET, SQL, HTML, CSS y JavaScript, comprometido en crear soluciones eficientes y elegantes para desafíos de programación complejos.
+  Soy un desarrollador de software con experiencia en .NET, SQL, HTML, CSS y JavaScript, Python y dando mis primeros pasos en el mundo de las IA, comprometido en crear soluciones eficientes y elegantes para desafíos de programación complejos.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -12,12 +12,14 @@
 
 <h3 align="left">Professional Experience:</h3>
 <ul>
-  <li><b>Exxa Click Solutions S.L. | Software Developer</b> (2022 - 2023): Desarrollo de aplicaciones web utilizando .NET, SQL, HTML, CSS y JavaScript.</li>
-  <li><b>Vadigu Software | .Net Developer</b> (2022): Proyecto independiente para optimización de CRM.</li>
-  <li><b>Arkano Software | Web and Backend Developer</b> (2020 - 2021): Desarrollo de software para diversos sectores como Financiero y Farmacéutico.</li>
-  <li><b>EDENRED URUGUAY | Web and Backend Developer</b> (2019 - 2020): Mantenimiento de sistemas backend internos.</li>
-  <!-- Más experiencias laborales según sea relevante -->
+  <li><b>Exxa Click Solutions S.L. | Software Developer</b> (2022 - 2023): Desarrollo de aplicaciones web utilizando .NET, SQL, HTML, CSS y JavaScript para soporte de CRM y clientes.</li>
+  <li><b>Vadigu Software | .Net Developer</b> (2022): Proyecto independiente centrado en la optimización de CRM.</li>
+  <li><b>Arkano Software | Web and Backend Developer</b> (2020 - 2021): Desarrollo de software para diversos sectores, incluyendo Financiero, Consumo y Farmacéutico.</li>
+  <li><b>EDENRED URUGUAY | Web and Backend Developer</b> (2019 - 2020): Desarrollo y mantenimiento de sistemas backend internos.</li>
+  <li><b>MONTECABLE SA | Web and Backend Developer</b> (2016 - 2019): Desarrollo y mantenimiento de sistemas internos de la empresa.</li>
+  <li><b>CrediVí | .NET Developer and IT Technician</b> (2014 - 2016): Encargado del desarrollo y mantenimiento del software de la empresa y sucursales. Soporte y mantenimiento de bases de datos y de la infraestructura IT.</li>
 </ul>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
