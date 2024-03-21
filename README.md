@@ -55,18 +55,3 @@
 <p align="left">
   Desarrollador .Net | <a href="https://www.ort.edu.uy" target="_blank">Universidad ORT Uruguay</a>
 </p>
-
-## Proyectos
-<!-- A continuación, se añadirá automáticamente la lista de tus proyectos de GitHub -->
-- [CrudPedidosPy](https://github.com/wicouy/CrudPedidosPy)
-- [duende-new-web](https://github.com/wicouy/duende-new-web) (Fork)
-- [GatewayGo](https://github.com/wicouy/GatewayGo)
-- [MarioBrosIA](https://github.com/wicouy/MarioBrosIA)
-- [MiniBob](https://github.com/wicouy/MiniBob)
-- [PyTutor](https://github.com/wicouy/PyTutor)
-- [PyVisionAPI](https://github.com/wicouy/PyVisionAPI)
-- [RedesNeuronales](https://github.com/wicouy/RedesNeuronales)
-- [TimmyIA](https://github.com/wicouy/TimmyIA)
-- [TommyTutor](https://github.com/wicouy/TommyTutor)
-<!-- Fin de la sección de proyectos -->
-
