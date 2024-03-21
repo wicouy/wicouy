@@ -56,3 +56,10 @@
   Desarrollador .Net | <a href="https://www.ort.edu.uy" target="_blank">Universidad ORT Uruguay</a>
 </p>
 
+## Proyectos
+<!-- A continuación, se añadirá automáticamente la lista de tus proyectos de GitHub -->
+- [Nombre del Proyecto 1](https://link-al-proyecto1)
+- [Nombre del Proyecto 2](https://link-al-proyecto2)
+- [Nombre del Proyecto 3](https://link-al-proyecto3)
+<!-- Fin de la sección de proyectos -->
+
