@@ -1,0 +1,33 @@
+import json
+
+# Cargar los datos del JSON
+with open('repos.json', 'r') as file:
+    repos_data = json.load(file)
+
+# Generar la sección de proyectos
+projects_content = "\n<!--projects_start-->\n## Mis Proyectos Públicos\n\n"
+for repo in repos_data:
+    projects_content += f"- [{repo['name']}]({repo['html_url']})\n"
+projects_content += "<!--projects_end-->\n"
+
+# Leer el contenido actual de README.md
+with open('README.md', 'r') as file:
+    readme_content = file.read()
+
+# Buscar las etiquetas de inicio y fin para la sección de proyectos
+start_tag = "<!--projects_start-->"
+end_tag = "<!--projects_end-->"
+
+# Dividir el contenido de README.md y reemplazar la sección de proyectos
+start_index = readme_content.find(start_tag)
+end_index = readme_content.find(end_tag) + len(end_tag)
+
+if start_index != -1 and end_index != -1:
+    new_readme_content = readme_content[:start_index] + projects_content + readme_content[end_index:]
+else:
+    # Si las etiquetas no existen, simplemente agregar la sección de proyectos al final
+    new_readme_content = readme_content + projects_content
+
+# Escribir el nuevo contenido en README.md
+with open('README.md', 'w') as file:
+    file.write(new_readme_content)
